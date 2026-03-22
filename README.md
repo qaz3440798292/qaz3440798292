@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 闻海旺</h1>
+<h1 align="center">Hi 👋, I'm XUMOB</h1>
 <h3 align="center">🚀 A Passionate Developer from China</h3>
 
 <p align="center">
