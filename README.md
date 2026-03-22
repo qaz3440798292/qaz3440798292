@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Developer from China</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-wor…computer_90220-251.jpg?semt=ais_hybrid&w=740&q=80" alt="profile views" />
+  <img src="./image.png" alt="profile views" />
 </p>
 
 ---
