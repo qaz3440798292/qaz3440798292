@@ -79,7 +79,7 @@ Developer Journey
 
 **Thanks for visiting! / 感谢访问** 💚
 
-[🌐 个人网站](https://www.xumob.cn) · [💻 GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+[🌐 个人网站](https://www.xumob.cn) · [💻 GitHub](https://github.com/qaz3440798292)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d9488&height=95&section=footer" width="100%" alt="footer" />
 
