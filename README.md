@@ -9,7 +9,7 @@
 把想法写成代码，把代码变成真正能用的产品。
 
 [![Website](https://img.shields.io/badge/个人网站-www.xumob.cn-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.xumob.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-关注我-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-关注我-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qaz3440798292)
 
 </div>
 
@@ -60,13 +60,12 @@ Developer Journey
 
 ### 📊 GitHub / 开发足迹
 
-<!-- 将下方 YOUR_GITHUB_USERNAME 替换为你的 GitHub 用户名；部分第三方统计服务可能偶尔不可用。 -->
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=qaz3440798292&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qaz3440798292&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 
-<img width="96%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img width="96%" src="https://streak-stats.demolab.com?user=qaz3440798292&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
